@@ -1,0 +1,19 @@
+#section-1{
+    background-color: aquamarine;
+    float:left;
+
+}
+
+#section-2{
+    background-color: burlywood;
+    float: right;
+}
+
+#section-3{
+    background-color: tomato;
+}
+
+#clear-div{
+    clear:both;
+
+}
