@@ -1,0 +1,55 @@
+h1{
+    border: 5px solid red;
+    width: 450px;
+}
+
+h2{
+    border: 5px solid blue;
+    width: 340px;
+}
+
+h3{
+    border-left: 5px solid;
+    border-bottom: 3px double;
+    border-right: 3px double;
+    border-top: 5px solid;
+    color:tomato;
+    width:270px;
+    
+
+}
+
+p{
+    border: 5px solid green;
+    width: 600px;
+    margin: 30px;
+}
+
+p::first-letter{
+    color: red;
+    font-size: 2em;
+}
+
+p:hover{
+    background-color: lightgray;
+    border: 5px solid tomato;
+    width: 600px;
+    margin: 30px;
+}
+
+input{
+    border: 5px dotted blue;
+    width:250px;
+    margin:10px;
+    padding: 10px;
+}
+
+input:hover{
+    background-color: lightpink;
+    border-left: 5px solid tomato;
+    border-top: 5px solid tomato;
+    border-right:5px double tomato;
+    border-bottom: 5px double tomato;
+    width:250px;
+}
+

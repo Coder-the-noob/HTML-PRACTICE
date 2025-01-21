@@ -1,0 +1,13 @@
+.gradiboy{
+    height: 200px;
+    background-image: linear-gradient(to right, red , orange, yellow, green, blue, indigo, violet);
+}
+
+div p{
+    font-size:bold;
+    font-size: 20px;
+    text-align: center;
+    padding: 80px;
+    color:ghostwhite;
+    margin: 50px;
+}
