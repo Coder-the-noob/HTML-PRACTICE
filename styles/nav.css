@@ -1,0 +1,33 @@
+.nav-menu{
+    background-color: #639e63;
+    width: 500px;
+    height: 80px;
+    margin: 0 auto;
+    /* Above margin center the content */
+}
+
+.nav-menu ul{
+
+}
+
+.nav-menu ul li{
+    list-style-type: none;
+    margin: 20px;
+    float: left;
+
+}
+
+.nav-menu ul li a{
+
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+    
+
+}
+
+.nav-menu ul li a:hover{
+    text-decoration: underline;
+
+}
